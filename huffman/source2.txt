@@ -1,0 +1,8 @@
+Implement the following order statistics algorithms :
+a. Median of groups of 3,5 and 7.
+b. Randomized median finding algorithm.
+Make your code generic enough so that it can answer order statistics for any k. For eg
+k = n/2 gives the median and k=n gives the max.
+Implement quicksort where the pivot is chosen from the previous order statistics
+algorithms. Compare the performance of quicksort with median as pivot with
+randomized quicksort which chooses a random element in the array as the pivot.
